@@ -1,7 +1,7 @@
-# ToDo-List
 📌 My First Todo List Project
-This is my very first web project — a simple and responsive Todo List App built using HTML, CSS, and JavaScript.
-It helps users stay organized by managing their daily tasks easily.
+Welcome to my first web project — a simple and clean Todo List App built using HTML, CSS, and JavaScript.
+
+📁 GitHub Repository: github.com/karthikesh21/todo-list
 
 🌟 Features
 ✅ Add new tasks
@@ -10,32 +10,32 @@ It helps users stay organized by managing their daily tasks easily.
 
 ❌ Delete tasks
 
-📊 Live task count (total & completed)
+📊 View total and completed task count
 
-🎉 Success message on completion
+🎉 Get a motivational message on completing tasks
 
 🛠️ Tech Stack
 HTML5
 
-CSS3 (with modern gradients and layout)
+CSS3
 
-Vanilla JavaScript (ES6+)
+Vanilla JavaScript
 
-🚀 How to Run It
-Download or Clone the Repository
+🚀 How to Use
+Clone the repository
 
 bash
 Copy
 Edit
-git clone https://github.com/your-username/todo-list-app.git
-Open the index.html file
-You can simply double-click it, or open it in your browser via VS Code Live Server.
+git clone https://github.com/karthikesh21/todo-list.git
+Open index.html in your browser or use a local server (like Live Server in VS Code).
 
-📂 Folder Structure
+📁 Project Structure
 bash
 Copy
 Edit
-├── index.html     # Main HTML file
-├── style.css      # All UI styles
-├── script.js      # JavaScript logic
-└── README.md      # Project details
+📦 todo-list
+├── index.html     # Main structure
+├── style.css      # Styling and layout
+├── script.js      # App functionality
+└── README.md      # Project overview
