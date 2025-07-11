@@ -59,7 +59,7 @@ function renderTodos() {
       <span>${todo.text}</span>
       <div>
         <button onclick="toggleTodo(${todo.id})">✅</button>
-        <button onclick="deleteTodo(${todo.id})">🗑️</button>
+        <button onclick="deleteTodo(${todo.id})">❌</button>
       </div>
     `;
 
